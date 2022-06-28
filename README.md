@@ -948,6 +948,8 @@ To make the data persist in case of a Pod’s failure, you will need to configur
 
 But where is it requesting this storage from?..
 
+# SCREENSHOTS
+
 ![alt text](./images/b.PNG)
 
 ![alt text](./images/b1.PNG)
