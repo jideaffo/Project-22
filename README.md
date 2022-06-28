@@ -966,9 +966,7 @@ But where is it requesting this storage from?..
 
 ![alt text](./images/b7.PNG)
 
-![alt text](./images/b8.PNG)
 
-![alt text](./images/b9.PNG)
 
 ![alt text](./images/b10.PNG)
 
